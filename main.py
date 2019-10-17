@@ -9,7 +9,7 @@ Main python file for 8bit music conversion
 """
 
 # Load in sample MP3 file
-audio, sampling_rate = librosa.core.load("file_example_MP3_1MG.mp3")
+audio, sampling_rate = librosa.core.load("file_exfample_MP3_1MG.mp3")
 
 # Display audio file
 # print("Example Audio:")
